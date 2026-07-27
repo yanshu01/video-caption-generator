@@ -46,10 +46,10 @@ with colour_column_2:
 
 font_size = st.slider(
     "Caption font size",
-    min_value=30,
-    max_value=80,
-    value=52,
-    step=2,
+    min_value=12,
+    max_value=45,
+    value=24,
+    step=1,
 )
 
 st.subheader("Caption Animation")
