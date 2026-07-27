@@ -1,0 +1,4 @@
+streamlit
+faster-whisper
+groq
+python-dotenv
